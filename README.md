@@ -3,8 +3,8 @@
 ## Криптовалюта, блокчейн, смарт-контракты
 |Название|Описание|Технологии|
 |------|------|------|
-|[Simple Blockchain](https://github.com/atdushi/simple-blockchain)|Блокчейн на Python|Python, Flask, .NET, C#|
 |[DEFI Bank Project on Blockchain](https://github.com/atdushi/bug-free-barnacle)|DeFi банк. Есть возможность внести деньги на депозит и отозвать их обратно|Solidity, Python, Flask|
+|[Simple Blockchain](https://github.com/atdushi/simple-blockchain)|Блокчейн на Python|Python, Flask, .NET, C#|
 
 ## Инвестиции
 |Название|Описание|Технологии|
