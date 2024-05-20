@@ -1,4 +1,4 @@
-# Путеводитель по репозиториям
+# Путеводитель по моим репозиториям
 
 ## Криптовалюта, блокчейн, смарт-контракты
 |Название|Описание|Технологии|
@@ -22,10 +22,12 @@
 |[Анализ логов Apache](https://github.com/data-engineer-course/adapache)|Формирование витрины данных на основе логов web-сайта|Spark, Cassandra, Python, Minikube|
 
 ## Курсы от Virtual Pair Programmers
-- [Java Build Tools](https://github.com/vpp-repositories/java-build-tools)
-- [Java Web Developmen](https://github.com/vpp-repositories/java-web-development)
-- [Spring Boot](https://github.com/vpp-repositories/spring-boot)
-- [Spring Framework Fundamentals](https://github.com/vpp-repositories/spring-framework-fundamentals)
-- [JavaEE](https://github.com/vpp-repositories/java-ee)
-- [Hadoop for Java Developers](https://github.com/vpp-repositories/first-hadoop-project)
-- [Apache Spark for Java Developers Course](https://github.com/vpp-repositories/apache-spark-course)
+|Название|Описание|Технологии|
+|------|------|------|
+|[Java Build Tools](https://github.com/vpp-repositories/java-build-tools)|Охватывает три ведущих инструмента, используемых в профессиональных Java-проектах|Ant, Maven, Gradle|
+|[Java Web Development](https://github.com/vpp-repositories/java-web-development)|Этот курс охватывает все, что нужно, чтобы начать работу в качестве профессионального веб-разработчика Java|Servlets, JSP, JSTL, MVC, Struts|
+|[Spring Boot](https://github.com/vpp-repositories/spring-boot)|Spring Boot приложение|Spring Data JPA, Security, MVC, REST|
+|[Spring Framework Fundamentals](https://github.com/vpp-repositories/spring-framework-fundamentals)|Spring приложение|Dependency Injection, AOP, Hibernate/JPA, MyBatis|
+|[JavaEE](https://github.com/vpp-repositories/java-ee)|Начало работы с JavaEE|JDBC, JNDI, EJB, JAX-RS, JAX-WS, JMS|
+|[Hadoop for Java Developers](https://github.com/vpp-repositories/first-hadoop-project)|Hadoop для Java разработчиков|Hadoop, Java|
+|[Apache Spark for Java Developers Course](https://github.com/vpp-repositories/apache-spark-course)|Apache Spark для Java разработчиков|Spark, Java|
