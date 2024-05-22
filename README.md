@@ -4,6 +4,7 @@
 |Название|Описание|Технологии|
 |------|------|------|
 |[DEFI Bank Project on Blockchain](https://github.com/atdushi/bug-free-barnacle)|DeFi банк. Есть возможность внести деньги на депозит и отозвать их обратно|Solidity, Python, Flask|
+|[My Video Card NFT](https://github.com/atdushi/shiny-memory)|NFT токен видеокарты|Solidity, Node.js, Hardhat|
 
 ## Инвестиции
 |Название|Описание|Технологии|
