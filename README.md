@@ -37,3 +37,9 @@
 |[ZZZCMS.NET](https://github.com/atdushi/Zzzcms.net)|Легковесная CMS система|ADO.NET, ASP.NET, Razor, jQuery, NAnt|
 |[spring-cloud](https://github.com/atdushi/spring-cloud)|Java в облаке|Spring Boot, Spring Cloud|
 |[conky]()|VSCode расширение для .conkyrc файлов|VSCode|
+
+# Мои статьи на сайте cxem.net
+
+ - [Оповещения о начале стрима с M590](https://cxem.net/sotov/sotov123.php)
+ - [Аудиоплеер на Arduino](https://cxem.net/arduino/arduino177.php)
+ - [Колонки на TDA2822M](https://cxem.net/sound/dinamics/dinamic106.php)
