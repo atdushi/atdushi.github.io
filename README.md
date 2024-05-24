@@ -21,6 +21,13 @@
 |[Анализ рынка валют](https://github.com/data-engineer-course/stocash)|Формирование витрин данных для анализа изменений курса валют|Hadoop, Airflow, Spark, ClickHouse, HashiCorp Vault|
 |[Анализ логов Apache](https://github.com/data-engineer-course/adapache)|Формирование витрины данных на основе логов web-сайта|Spark, Cassandra, Python, Minikube|
 
+## Нейронные сети, машинное обучение
+|Название|Описание|Технологии|
+|------|------|------|
+|[Deep Learning: базовый поток](https://github.com/atdushi/DLS-basic)|Цель этого курса – познакомить слушателей с теорией и практикой глубокого обучения и нейронных сетей в интерактивном формате|Python, Jupyter Notebook|
+|[Deep Learning: продвинутый поток](https://github.com/atdushi/DLS-advanced)|Цель этого курса – познакомить слушателей с теорией и практикой глубокого обучения и нейронных сетей в интерактивном формате|Python, Jupyter Notebook|
+
+
 ## Курсы от Virtual Pair Programmers
 |Название|Описание|Технологии|
 |------|------|------|
