@@ -26,6 +26,7 @@
 |------|------|------|
 |[Deep Learning: базовый поток](https://github.com/atdushi/DLS-basic)|Цель этого курса – познакомить слушателей с теорией и практикой глубокого обучения и нейронных сетей в интерактивном формате|Python, Jupyter Notebook|
 |[Deep Learning: продвинутый поток](https://github.com/atdushi/DLS-advanced)|Цель этого курса – познакомить слушателей с теорией и практикой глубокого обучения и нейронных сетей в интерактивном формате|Python, Jupyter Notebook|
+|[Анализ данных (Введение в Python и обработку таблиц)](https://github.com/atdushi/legendary-tribble)|Цель курса: дать базовое представление о способах обработки больших таблиц с данными с помощью языка Python|Python, Jupyter Notebook|
 
 
 ## Курсы от Virtual Pair Programmers
