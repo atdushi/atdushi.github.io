@@ -45,6 +45,7 @@
 |[ZZZCMS.NET](https://github.com/atdushi/Zzzcms.net)|Легковесная CMS система|ADO.NET, ASP.NET, Razor, jQuery, NAnt|
 |[spring-cloud](https://github.com/atdushi/spring-cloud)|Java в облаке|Spring Boot, Spring Cloud|
 |[conky]()|VSCode расширение для .conkyrc файлов|VSCode|
+|[Основы программирования для Linux](https://github.com/atdushi/automatic-waddle)|Упражнения к курсу по Linux на [stepic.org](https://stepik.org/course/548/info)|C, Bash|
 
 # Мои статьи на сайте cxem.net
 
