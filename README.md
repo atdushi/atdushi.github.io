@@ -5,18 +5,6 @@
 |------|------|------|
 |[TopJava](https://github.com/atdushi/topjava)|Приложение для подсчёта калорий|Maven, Spring MVC, Spring Security, REST (Jackson), Java 8 Stream API, Spring JDBC, JPA (Hibernate) и Spring-Data-JPA|
 
-## Криптовалюта, блокчейн, смарт-контракты
-|Название|Описание|Технологии|
-|------|------|------|
-|[DEFI Bank Project on Blockchain](https://github.com/atdushi/bug-free-barnacle)|DeFi банк. Есть возможность внести деньги на депозит и отозвать их обратно|Solidity, ERC-20, OpenZeppelin, Python, Flask|
-|[My Video Card NFT](https://github.com/atdushi/shiny-memory)|NFT токен|Solidity, ERC-721, OpenZeppelin, Node.js, Hardhat|
-
-## Инвестиции
-|Название|Описание|Технологии|
-|------|------|------|
-|[Tinkoff FIGI lookup](https://github.com/atdushi/tinkoff-figi-lookup)|Приложение по работе с Tinkoff API|Python, FastAPI, Django|
-|[Solid Disco](https://github.com/atdushi/solid-disco)|Многомодульное maven приложение по работе с Tinkoff API|Java, Maven, Ant, JAX-RS, JMS, JavaFX, Struts|
-
 ## Выпускная работа для курса повышения квалификации в ООО «1Т» по программе «Инженер данных»
 |Название|Описание|Технологии|
 |------|------|------|
@@ -33,6 +21,17 @@
 |[Deep Learning: продвинутый поток](https://github.com/atdushi/DLS-advanced)|Цель этого курса – познакомить слушателей с теорией и практикой глубокого обучения и нейронных сетей в интерактивном формате|Python, Jupyter Notebook|
 |[Анализ данных (Введение в Python и обработку таблиц)](https://github.com/atdushi/legendary-tribble)|Цель курса: дать базовое представление о способах обработки больших таблиц с данными с помощью языка Python|Python, Jupyter Notebook|
 
+## Криптовалюта, блокчейн, смарт-контракты
+|Название|Описание|Технологии|
+|------|------|------|
+|[DEFI Bank Project on Blockchain](https://github.com/atdushi/bug-free-barnacle)|DeFi банк. Есть возможность внести деньги на депозит и отозвать их обратно|Solidity, ERC-20, OpenZeppelin, Python, Flask|
+|[My Video Card NFT](https://github.com/atdushi/shiny-memory)|NFT токен|Solidity, ERC-721, OpenZeppelin, Node.js, Hardhat|
+
+## Инвестиции
+|Название|Описание|Технологии|
+|------|------|------|
+|[Tinkoff FIGI lookup](https://github.com/atdushi/tinkoff-figi-lookup)|Приложение по работе с Tinkoff API|Python, FastAPI, Django|
+|[Solid Disco](https://github.com/atdushi/solid-disco)|Многомодульное maven приложение по работе с Tinkoff API|Java, Maven, Ant, JAX-RS, JMS, JavaFX, Struts|
 
 ## Курсы от Virtual Pair Programmers
 |Название|Описание|Технологии|
