@@ -1,5 +1,10 @@
 # Путеводитель по моим репозиториям
 
+## Стажировка JavaOPs
+|Название|Описание|Технологии|
+|------|------|------|
+|[TopJava](https://github.com/atdushi/topjava)|Приложение для подсчёта калорий|Maven, Spring MVC, Spring Security, REST (Jackson), Java 8 Stream API, Spring JDBC, JPA (Hibernate) и Spring-Data-JPA|
+
 ## Криптовалюта, блокчейн, смарт-контракты
 |Название|Описание|Технологии|
 |------|------|------|
@@ -44,7 +49,8 @@
 |Название|Описание|Технологии|
 |------|------|------|
 |[ZZZCMS.NET](https://github.com/atdushi/Zzzcms.net)|Легковесная CMS система|ADO.NET, ASP.NET, Razor, jQuery, NAnt|
-|[spring-cloud](https://github.com/atdushi/spring-cloud)|Java в облаке|Spring Boot, Spring Cloud|
+|[Spring Cloud](https://github.com/atdushi/spring-cloud)|Java в облаке|Spring Boot, Spring Cloud|
+|[Address Book](https://github.com/java-repositories/java-fx-address-book)|Адресная книга на JavaFX|JavaFX, SQLite, Hibernate|
 |[conky]()|VSCode расширение для .conkyrc файлов|VSCode|
 |[Основы программирования для Linux](https://github.com/atdushi/automatic-waddle)|Базовые инструменты написания программ для Linux|C, Bash|
 
