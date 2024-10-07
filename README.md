@@ -49,9 +49,10 @@
 |Название|Описание|Технологии|
 |------|------|------|
 |[ZZZCMS.NET](https://github.com/atdushi/Zzzcms.net)|Легковесная CMS система|ADO.NET, ASP.NET, Razor, jQuery, NAnt|
-|[Spring Cloud](https://github.com/atdushi/spring-cloud)|Java в облаке|Spring Boot, Spring Cloud|
+|[Spring Cloud](https://github.com/java-repositories/spring-cloud)|Java в облаке|Spring Boot, Spring Cloud|
 |[Address Book](https://github.com/java-repositories/java-fx-address-book)|Адресная книга на JavaFX|JavaFX, SQLite, Hibernate|
-|[conky]()|VSCode расширение для .conkyrc файлов|VSCode|
+|[NASA bot](https://github.com/java-repositories/NASA_bot)|Telegram бот на Java для получения картинки от NASA|Telegram Bots|
+|[Conky](https://github.com/atdushi/conky)|VSCode расширение для .conkyrc файлов|VSCode|
 |[Основы программирования для Linux](https://github.com/atdushi/automatic-waddle)|Базовые инструменты написания программ для Linux|C, Bash|
 
 # Мои статьи на сайте cxem.net
