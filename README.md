@@ -27,12 +27,6 @@
 |[DEFI Bank Project on Blockchain](https://github.com/atdushi/bug-free-barnacle)|DeFi банк. Есть возможность внести деньги на депозит и отозвать их обратно|Solidity, ERC-20, OpenZeppelin, Python, Flask|
 |[My Video Card NFT](https://github.com/atdushi/shiny-memory)|NFT токен|Solidity, ERC-721, OpenZeppelin, Node.js, Hardhat|
 
-## Инвестиции
-|Название|Описание|Технологии|
-|------|------|------|
-|[Tinkoff FIGI lookup](https://github.com/atdushi/tinkoff-figi-lookup)|Приложение по работе с Tinkoff API|Python, FastAPI, Django|
-|[Solid Disco](https://github.com/atdushi/solid-disco)|Многомодульное maven приложение по работе с Tinkoff API|Java, Maven, Ant, JAX-RS, JMS, JavaFX, Struts|
-
 ## Курсы от Virtual Pair Programmers
 |Название|Описание|Технологии|
 |------|------|------|
@@ -43,6 +37,12 @@
 |[JavaEE](https://github.com/vpp-repositories/java-ee)|Начало работы с JavaEE|JDBC, JNDI, EJB, JAX-RS, JAX-WS, JMS|
 |[Hadoop for Java Developers](https://github.com/vpp-repositories/first-hadoop-project)|Hadoop для Java разработчиков|Hadoop, Java|
 |[Apache Spark for Java Developers Course](https://github.com/vpp-repositories/apache-spark-course)|Apache Spark для Java разработчиков|Spark, Java|
+
+## Работа с Tinkoff API
+|Название|Описание|Технологии|
+|------|------|------|
+|[Tinkoff FIGI lookup](https://github.com/atdushi/tinkoff-figi-lookup)|Приложение по работе с FIGI|Python, FastAPI, Django|
+|[Solid Disco](https://github.com/atdushi/solid-disco)|Многомодульное maven приложение|Java, Maven, Ant, JAX-RS, JMS, JavaFX, Struts|
 
 ## Разное
 |Название|Описание|Технологии|
