@@ -27,7 +27,8 @@
 |[DEFI Bank Project on Blockchain](https://github.com/atdushi/bug-free-barnacle)|DeFi банк. Есть возможность внести деньги на депозит и отозвать их обратно|Solidity, ERC-20, OpenZeppelin, Python, Flask|
 |[My Video Card NFT](https://github.com/atdushi/shiny-memory)|NFT токен|Solidity, ERC-721, OpenZeppelin, Node.js, Hardhat|
 
-## Курсы от Virtual Pair Programmers
+## Курсы по Java
+### Virtual Pair Programmers
 |Название|Описание|Технологии|
 |------|------|------|
 |[Java Build Tools](https://github.com/vpp-repositories/java-build-tools)|Охватывает три ведущих инструмента, используемых в профессиональных Java-проектах|Ant, Maven, Gradle|
@@ -37,6 +38,23 @@
 |[JavaEE](https://github.com/vpp-repositories/java-ee)|Начало работы с JavaEE|JDBC, JNDI, EJB, JAX-RS, JAX-WS, JMS|
 |[Hadoop for Java Developers](https://github.com/vpp-repositories/first-hadoop-project)|Hadoop для Java разработчиков|Hadoop, Java|
 |[Apache Spark for Java Developers Course](https://github.com/vpp-repositories/apache-spark-course)|Apache Spark для Java разработчиков|Spark, Java|
+
+### JavaBegin
+|Название|Описание|Технологии|
+|------|------|------|
+|[Spring Microservices Demo](https://github.com/java-repositories/spring-micro-demo)|Demo микросервисного приложения на Spring|Spring Boot 3, Spring Cloud (Config, Discovery, Routing)|
+|[Todo Backend Microservices](https://github.com/java-repositories/todo-backend-microservices)|Backend для Todo-приложения на микросервисах|Spring Boot 3, Spring Cloud (Config, Discovery, Routing)|
+|[Address Book](https://github.com/java-repositories/java-fx-address-book)|Адресная книга на JavaFX|JavaFX, SQLite, Hibernate|
+
+### VTB
+|Название|Описание|Технологии|
+|------|------|------|
+|[Spring Cloud](https://github.com/java-repositories/spring-cloud)|Java в облаке|Spring Boot 2, Spring Cloud (Netflix)|
+
+### Нетология
+|Название|Описание|Технологии|
+|------|------|------|
+|[NASA bot](https://github.com/java-repositories/NASA_bot)|Telegram бот на Java для получения картинки от NASA|Telegram Bots|
 
 ## Работа с Tinkoff API
 |Название|Описание|Технологии|
@@ -48,15 +66,10 @@
 |Название|Описание|Технологии|
 |------|------|------|
 |[ZZZCMS.NET](https://github.com/atdushi/Zzzcms.net)|Легковесная CMS система|ADO.NET, ASP.NET, Razor, jQuery, NAnt|
-|[Spring Microservices Demo](https://github.com/java-repositories/spring-micro-demo)|Demo микросервисного приложения на Spring|Spring Boot 3, Spring Cloud (Config, Discovery, Routing)|
-|[Spring Cloud](https://github.com/java-repositories/spring-cloud)|Java в облаке|Spring Boot 2, Spring Cloud|
-|[Address Book](https://github.com/java-repositories/java-fx-address-book)|Адресная книга на JavaFX|JavaFX, SQLite, Hibernate|
-|[NASA bot](https://github.com/java-repositories/NASA_bot)|Telegram бот на Java для получения картинки от NASA|Telegram Bots|
 |[Conky](https://github.com/atdushi/conky)|VSCode расширение для .conkyrc файлов|VSCode|
 |[Основы программирования для Linux](https://github.com/atdushi/automatic-waddle)|Базовые инструменты написания программ для Linux|C, Bash|
 
 # Мои статьи на сайте cxem.net
-
  - [Оповещения о начале стрима с M590](https://cxem.net/sotov/sotov123.php)
  - [Аудиоплеер на Arduino](https://cxem.net/arduino/arduino177.php)
  - [Колонки на TDA2822M](https://cxem.net/sound/dinamics/dinamic106.php)
