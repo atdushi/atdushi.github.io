@@ -39,7 +39,7 @@
 |[Hadoop for Java Developers](https://github.com/vpp-repositories/first-hadoop-project)|Hadoop для Java разработчиков|Hadoop, Java|
 |[Apache Spark for Java Developers Course](https://github.com/vpp-repositories/apache-spark-course)|Apache Spark для Java разработчиков|Spark, Java|
 
-### Java Begin
+### JB
 |Название|Описание|Технологии|
 |------|------|------|
 |[Spring Microservices Demo](https://github.com/java-repositories/spring-micro-demo)|Demo микросервисного приложения на Spring|Spring Boot 3, Spring Cloud (Config, Discovery, Routing)|
