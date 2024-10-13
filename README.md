@@ -8,11 +8,11 @@
 ## Выпускная работа для курса повышения квалификации в ООО «1Т» по программе «Инженер данных»
 |Название|Описание|Технологии|
 |------|------|------|
-|[Анализ публикуемых новостей](https://github.com/data-engineer-course/pubnews)|Формирование витрин данных для анализа публикаций новостей|Hadoop, Oozie, Kafka, Spark, ClickHouse, HBase, Drill|
-|[Клиенты и счета](https://github.com/data-engineer-course/taxacco)|Формирование витрин данных по счетам клиентов|Spark, Python, PostgreSQL, Vertica, Presto|
-|[Служба такси](https://github.com/data-engineer-course/cartax)|Формирование витрин данных по движению такси в Нью-Йорке|Spark, Scala, Kubernetes|
-|[Анализ рынка валют](https://github.com/data-engineer-course/stocash)|Формирование витрин данных для анализа изменений курса валют|Hadoop, Airflow, Spark, ClickHouse, HashiCorp Vault|
-|[Анализ логов Apache](https://github.com/data-engineer-course/adapache)|Формирование витрины данных на основе логов web-сайта|Spark, Cassandra, Python, Minikube|
+|[Анализ публикуемых новостей](https://github.com/data-engineer-course/pubnews)|Формирование витрин данных для анализа публикаций новостей|Hadoop, Oozie, Kafka, Spark, ClickHouse, HBase, Drill, GitHub Actions|
+|[Клиенты и счета](https://github.com/data-engineer-course/taxacco)|Формирование витрин данных по счетам клиентов|Spark, Python, PostgreSQL, Vertica, Presto, GitHub Actions|
+|[Служба такси](https://github.com/data-engineer-course/cartax)|Формирование витрин данных по движению такси в Нью-Йорке|Spark, Scala, Kubernetes, GitHub Actions|
+|[Анализ рынка валют](https://github.com/data-engineer-course/stocash)|Формирование витрин данных для анализа изменений курса валют|Hadoop, Airflow, Spark, ClickHouse, HashiCorp Vault, GitHub Actions|
+|[Анализ логов Apache](https://github.com/data-engineer-course/adapache)|Формирование витрины данных на основе логов web-сайта|Spark, Cassandra, Python, Minikube, GitHub Actions|
 
 ## Нейронные сети, машинное обучение
 |Название|Описание|Технологии|
