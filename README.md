@@ -43,7 +43,7 @@
 |Название|Описание|Технологии|
 |------|------|------|
 |[Todo Backend Microservices](https://github.com/java-repositories/todo-backend-microservices)|Backend для Todo-приложения на микросервисах|Spring Boot 3, Spring Cloud (Config, Discovery, Feign, Routing, Streams), RabbitMQ|
-|[Spring Microservices Demo](https://github.com/java-repositories/spring-micro-demo)|Demo микросервисного приложения на Spring|Spring Boot 3, Spring Cloud (Config, Discovery, Routing)|
+|[Spring Microservices Demo](https://github.com/java-repositories/spring-micro-demo)|Demo микросервисного приложения на Spring|Spring Boot 3, Spring Cloud (Config, Discovery, Routing), Docker|
 |[Address Book](https://github.com/java-repositories/java-fx-address-book)|Адресная книга на JavaFX|JavaFX, SQLite, Hibernate|
 
 ### VTB
