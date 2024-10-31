@@ -46,6 +46,7 @@
 |[Spring Microservices Demo](https://github.com/java-repositories/spring-micro-demo)|Demo микросервисного приложения на Spring|Spring Boot 3, Spring Cloud (Config, Discovery, Routing), Docker, Gradle, GitHub Actions|
 |[Address Book](https://github.com/java-repositories/java-fx-address-book/tree/spring-boot)|Адресная книга на JavaFX + Spring Boot|Spring Boot 3, JavaFX, ControlsFX, SQLite, JPA, Lombok, Gradle|
 |[Address Book](https://github.com/java-repositories/java-fx-address-book)|Адресная книга на JavaFX|JavaFX, ControlsFX, SQLite, Hibernate|
+|[Goldman](https://github.com/java-repositories/goldman)|Игра "Золотоискатель"|Swing, SQLite|
 
 ### VTB
 |Название|Описание|Технологии|
