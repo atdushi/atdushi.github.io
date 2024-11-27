@@ -47,6 +47,7 @@
 |[Address Book](https://github.com/java-repositories/java-fx-address-book/tree/spring-boot)|Адресная книга на JavaFX + Spring Boot|Spring Boot 3, JavaFX, ControlsFX, SQLite, JPA, Lombok, Gradle|
 |[Address Book](https://github.com/java-repositories/java-fx-address-book)|Адресная книга на JavaFX|JavaFX, ControlsFX, SQLite, Hibernate|
 |[Goldman](https://github.com/java-repositories/goldman)|Игра "Золотоискатель"|Swing, SQLite|
+|[MP3 Player](https://github.com/java-repositories/gui_mp3player)|MP3 плеер на Swing|Swing|
 
 ### VTB
 |Название|Описание|Технологии|
