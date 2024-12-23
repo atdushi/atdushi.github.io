@@ -1,6 +1,6 @@
 # Путеводитель по моим репозиториям
 
-## <a id="javaops" name="javaops"></a>Стажировка JavaOPs
+## [Стажировка JavaOPs](#javaops)
 |Название|Описание|Технологии|
 |------|------|------|
 |[Voting](https://github.com/atdushi/voting)|Выпускной проект стажировки TopJava|Spring Boot 3, Swagger, Maven, REST, Spring Data JPA|
@@ -77,5 +77,3 @@
  - [Оповещения о начале стрима с M590](https://cxem.net/sotov/sotov123.php)
  - [Аудиоплеер на Arduino](https://cxem.net/arduino/arduino177.php)
  - [Колонки на TDA2822M](https://cxem.net/sound/dinamics/dinamic106.php)
-
-[Information](../#javaops)
