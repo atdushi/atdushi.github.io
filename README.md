@@ -1,9 +1,9 @@
 # Путеводитель по моим репозиториям
 
-## Стажировка JavaOPs
+## <a name="topjava"></a>Стажировка JavaOPs
 |Название|Описание|Технологии|
 |------|------|------|
-|[Voting](https://github.com/atdushi/voting)<a name="voting"></a>|Выпускной проект стажировки TopJava|Spring Boot 3, Swagger, Maven, REST, Spring Data JPA|
+|[Voting](https://github.com/atdushi/voting)|Выпускной проект стажировки TopJava|Spring Boot 3, Swagger, Maven, REST, Spring Data JPA|
 |[TopJava](https://github.com/atdushi/topjava)|Приложение для подсчёта калорий|Maven, Spring MVC, Spring Security, REST (Jackson), Java 8 Stream API, Spring JDBC, JPA (Hibernate) и Spring Data JPA|
 
 ## Выпускная работа для курса повышения квалификации в ООО «1Т» по программе «Инженер данных»
