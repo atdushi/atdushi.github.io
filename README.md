@@ -50,7 +50,7 @@
 |[Goldman](https://github.com/java-repositories/goldman)|Игра "Золотоискатель"|Swing, SQLite|
 |[MP3 Player](https://github.com/java-repositories/gui_mp3player)|MP3 плеер на Swing|Swing, jlGui|
 
-### VTB
+### [VTB](#vtb)
 |Название|Описание|Технологии|
 |------|------|------|
 |[Spring Cloud](https://github.com/java-repositories/spring-cloud)|Java в облаке|Spring Boot 2, Spring Cloud (Netflix)|
