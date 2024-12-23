@@ -1,6 +1,6 @@
 # Путеводитель по моим репозиториям
 
-## [Стажировка JavaOPs](#javaops)
+## Стажировка JavaOPs
 |Название|Описание|Технологии|
 |------|------|------|
 |[Voting](https://github.com/atdushi/voting)|Выпускной проект стажировки TopJava|Spring Boot 3, Swagger, Maven, REST, Spring Data JPA|
