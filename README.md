@@ -1,6 +1,6 @@
 # Путеводитель по моим репозиториям
 
-## [Стажировка JavaOPs](#topjava)
+## <a id="javaops" name="javaops"></a>Стажировка JavaOPs
 |Название|Описание|Технологии|
 |------|------|------|
 |[Voting](https://github.com/atdushi/voting)|Выпускной проект стажировки TopJava|Spring Boot 3, Swagger, Maven, REST, Spring Data JPA|
@@ -50,7 +50,7 @@
 |[Goldman](https://github.com/java-repositories/goldman)|Игра "Золотоискатель"|Swing, SQLite|
 |[MP3 Player](https://github.com/java-repositories/gui_mp3player)|MP3 плеер на Swing|Swing, jlGui|
 
-### [VTB](#vtb)
+### VTB
 |Название|Описание|Технологии|
 |------|------|------|
 |[Spring Cloud](https://github.com/java-repositories/spring-cloud)|Java в облаке|Spring Boot 2, Spring Cloud (Netflix)|
@@ -77,3 +77,5 @@
  - [Оповещения о начале стрима с M590](https://cxem.net/sotov/sotov123.php)
  - [Аудиоплеер на Arduino](https://cxem.net/arduino/arduino177.php)
  - [Колонки на TDA2822M](https://cxem.net/sound/dinamics/dinamic106.php)
+
+[Information](../#javaops)
