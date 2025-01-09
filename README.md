@@ -80,9 +80,4 @@
 
 # Обратная связь
 
-<details>
-  <summary>Google Form</summary>
-
-  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeM3qTRb_iH6u_pS_ZhIV_PRZeXRCRro81M84RihqErPG6UJQ/viewform?embedded=true" width="640" height="821" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
-
-</details>
+- [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeM3qTRb_iH6u_pS_ZhIV_PRZeXRCRro81M84RihqErPG6UJQ/viewform)
