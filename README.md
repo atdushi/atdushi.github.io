@@ -80,4 +80,4 @@
 
 # Обратная связь
 
-- [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeM3qTRb_iH6u_pS_ZhIV_PRZeXRCRro81M84RihqErPG6UJQ/viewform)
+- [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSeM3qTRb_iH6u_pS_ZhIV_PRZeXRCRro81M84RihqErPG6UJQ/viewform)
