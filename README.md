@@ -77,3 +77,12 @@
  - [Оповещения о начале стрима с M590](https://cxem.net/sotov/sotov123.php)
  - [Аудиоплеер на Arduino](https://cxem.net/arduino/arduino177.php)
  - [Колонки на TDA2822M](https://cxem.net/sound/dinamics/dinamic106.php)
+
+# Обратная связь
+
+<details>
+  <summary>Google Form</summary>
+
+  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeM3qTRb_iH6u_pS_ZhIV_PRZeXRCRro81M84RihqErPG6UJQ/viewform?embedded=true" width="640" height="821" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
+
+</details>
