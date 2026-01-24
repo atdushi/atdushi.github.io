@@ -69,6 +69,7 @@
 ## Разное
 |Название|Описание|Технологии|
 |------|------|------|
+|[URL Parser & Redirector](https://github.com/atdushi/url-parser-redirector)|Расширение для Chrome, которое парсит URL|Chrome, JavaScript|
 |[ZZZCMS.NET](https://github.com/atdushi/Zzzcms.net)|Легковесная CMS система|ADO.NET, ASP.NET, Razor, jQuery, NAnt|
 |[Conky](https://github.com/atdushi/conky)|VSCode расширение для .conkyrc файлов|VSCode|
 |[Основы программирования для Linux](https://github.com/atdushi/automatic-waddle)|Базовые инструменты написания программ для Linux|C, Bash|
