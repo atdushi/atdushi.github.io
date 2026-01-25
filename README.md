@@ -66,6 +66,12 @@
 |[Tinkoff FIGI lookup](https://github.com/atdushi/tinkoff-figi-lookup)|Приложение по работе с FIGI|Python, FastAPI, Django|
 |[Solid Disco](https://github.com/atdushi/solid-disco)|Многомодульное maven приложение|Java, Maven, Ant, JAX-RS, JMS, JavaFX, Struts|
 
+## Курсы по .NET
+### Udemy
+|Название|Описание|Технологии|
+|------|------|------|
+|[Minimal API Demo](https://github.com/atdushi/minimal-api-demo)|Небольшое приложение для демонстрации Minimal API|.NET 8.0, ASP.NET Core, Entity Framework Core (Tools, SqlServer)|
+
 ## Разное
 |Название|Описание|Технологии|
 |------|------|------|
