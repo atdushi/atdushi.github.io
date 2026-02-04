@@ -75,7 +75,7 @@
 ### Pluralsight
 |Название|Описание|Технологии|
 |------|------|------|
-|[.NET Cloud-native Development](https://github.com/atdushi/dotnet-cloud-native-development)|Использование инструментов для разработки облачных приложений|ASP.NET Core, docker, docker-compose|
+|[.NET Cloud-native Development](https://github.com/atdushi/dotnet-cloud-native-development)|Использование инструментов для разработки облачных приложений|ASP.NET Core, Docker, Aspire|
 
 ## Разное
 |Название|Описание|Технологии|
