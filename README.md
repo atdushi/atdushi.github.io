@@ -89,7 +89,7 @@
 |Название|Описание|Технологии|
 |------|------|------|
 |[.NET Cloud-native Development](https://github.com/net-repositories/dotnet-cloud-native-development)|Использование инструментов для разработки облачных приложений|ASP.NET Core, Docker, Aspire|
-|[Modern Structured Logging With Serilog and Seq](https://github.com/net-repositories/modern-structured-logging-serilog-seq)|Современное структурированное логирование с использованием Serilog и Seq |Serilog, RavenDB, Seq, Docker|
+|[Modern Structured Logging With Serilog and Seq](https://github.com/net-repositories/modern-structured-logging-serilog-seq)|Современное структурированное логирование с использованием Serilog и Seq|Serilog, RavenDB, Seq, Docker|
 
 ## Разное
 
