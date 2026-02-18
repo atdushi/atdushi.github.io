@@ -82,13 +82,13 @@
 
 |Название|Описание|Технологии|
 |------|------|------|
-|[Minimal API Demo](https://github.com/atdushi/minimal-api-demo)|Небольшое приложение для демонстрации Minimal API|.NET 8.0, ASP.NET Core, Entity Framework Core (Tools, SqlServer)|
+|[Minimal API Demo](https://github.com/net-repositories/minimal-api-demo)|Небольшое приложение для демонстрации Minimal API|.NET 8.0, ASP.NET Core, Entity Framework Core (Tools, SqlServer)|
 
 ### Pluralsight
 
 |Название|Описание|Технологии|
 |------|------|------|
-|[.NET Cloud-native Development](https://github.com/atdushi/dotnet-cloud-native-development)|Использование инструментов для разработки облачных приложений|ASP.NET Core, Docker, Aspire|
+|[.NET Cloud-native Development](https://github.com/net-repositories/dotnet-cloud-native-development)|Использование инструментов для разработки облачных приложений|ASP.NET Core, Docker, Aspire|
 
 ## Разное
 
