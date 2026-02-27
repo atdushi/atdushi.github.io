@@ -82,6 +82,7 @@
 
 |Название|Описание|Технологии|
 |------|------|------|
+|[Airline Booking System](https://github.com/net-repositories/AirlineBookingSystem/tree/develop)|Приложение для демонстрации работы с RabbitMQ и другими технологиями|Microsoft SQL Server, MongoDB, Redis, RabbitMQ, Dapper ORM, Docker|
 |[Minimal API Demo](https://github.com/net-repositories/minimal-api-demo)|Небольшое приложение для демонстрации Minimal API|.NET 8.0, ASP.NET Core, Entity Framework Core (Tools, SqlServer)|
 
 ### Pluralsight
